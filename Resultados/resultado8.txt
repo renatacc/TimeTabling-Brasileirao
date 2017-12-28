@@ -1,0 +1,432 @@
+Nova Melhor Solução Encontrada: 55200000000,000000 nErro1: 136 nErro2: 12 nErro3: 20 nErro4: 0
+Nova Melhor Solução Encontrada: 55000000000,000000 nErro1: 135 nErro2: 12 nErro3: 20 nErro4: 0
+Nova Melhor Solução Encontrada: 50800000000,000000 nErro1: 136 nErro2: 10 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 48600000000,000000 nErro1: 136 nErro2: 9 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 46600000000,000000 nErro1: 135 nErro2: 8 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 46200000000,000000 nErro1: 135 nErro2: 8 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 46000000000,000000 nErro1: 134 nErro2: 8 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 45800000000,000000 nErro1: 133 nErro2: 8 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 45400000000,000000 nErro1: 131 nErro2: 8 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 43400000000,000000 nErro1: 130 nErro2: 7 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 43200000000,000000 nErro1: 130 nErro2: 7 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 43000000000,000000 nErro1: 129 nErro2: 7 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 42600000000,000000 nErro1: 129 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 42000000000,000000 nErro1: 126 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 41800000000,000000 nErro1: 125 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 41600000000,000000 nErro1: 124 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 41400000000,000000 nErro1: 123 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 41200000000,000000 nErro1: 122 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 41000000000,000000 nErro1: 121 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 40600000000,000000 nErro1: 119 nErro2: 7 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 38600000000,000000 nErro1: 118 nErro2: 6 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 38200000000,000000 nErro1: 116 nErro2: 6 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 37400000000,000000 nErro1: 113 nErro2: 6 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 37200000000,000000 nErro1: 112 nErro2: 6 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 34000000000,000000 nErro1: 112 nErro2: 4 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 33600000000,000000 nErro1: 110 nErro2: 4 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 33400000000,000000 nErro1: 109 nErro2: 4 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 33200000000,000000 nErro1: 108 nErro2: 4 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 31000000000,000000 nErro1: 108 nErro2: 3 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 30600000000,000000 nErro1: 106 nErro2: 3 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 30400000000,000000 nErro1: 103 nErro2: 3 nErro3: 19 nErro4: 0
+Nova Melhor Solução Encontrada: 28600000000,000000 nErro1: 103 nErro2: 2 nErro3: 20 nErro4: 0
+Nova Melhor Solução Encontrada: 28400000000,000000 nErro1: 102 nErro2: 2 nErro3: 20 nErro4: 0
+Nova Melhor Solução Encontrada: 28000000000,000000 nErro1: 100 nErro2: 2 nErro3: 20 nErro4: 0
+Nova Melhor Solução Encontrada: 27800000000,000000 nErro1: 99 nErro2: 2 nErro3: 20 nErro4: 0
+Nova Melhor Solução Encontrada: 25400000000,000000 nErro1: 98 nErro2: 1 nErro3: 19 nErro4: 0
+Nova Melhor Solução Encontrada: 25200000000,000000 nErro1: 97 nErro2: 1 nErro3: 19 nErro4: 0
+Nova Melhor Solução Encontrada: 25000000000,000000 nErro1: 97 nErro2: 1 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 24800000000,000000 nErro1: 96 nErro2: 1 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 24600000000,000000 nErro1: 95 nErro2: 1 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 24200000000,000000 nErro1: 93 nErro2: 1 nErro3: 18 nErro4: 0
+Nova Melhor Solução Encontrada: 24000000000,000000 nErro1: 93 nErro2: 1 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 23800000000,000000 nErro1: 92 nErro2: 1 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 23600000000,000000 nErro1: 91 nErro2: 1 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 23400000000,000000 nErro1: 90 nErro2: 1 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 23000000000,000000 nErro1: 88 nErro2: 1 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 22800000000,000000 nErro1: 87 nErro2: 1 nErro3: 17 nErro4: 0
+Nova Melhor Solução Encontrada: 22400000000,000000 nErro1: 87 nErro2: 1 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 22200000000,000000 nErro1: 85 nErro2: 1 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 22000000000,000000 nErro1: 85 nErro2: 1 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 21800000000,000000 nErro1: 84 nErro2: 1 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 21600000000,000000 nErro1: 83 nErro2: 1 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 21400000000,000000 nErro1: 82 nErro2: 1 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 21200000000,000000 nErro1: 80 nErro2: 1 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 21000000000,000000 nErro1: 79 nErro2: 1 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 20800000000,000000 nErro1: 78 nErro2: 1 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 20600000000,000000 nErro1: 77 nErro2: 1 nErro3: 16 nErro4: 0
+Nova Melhor Solução Encontrada: 20200000000,000000 nErro1: 77 nErro2: 1 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 20000000000,000000 nErro1: 75 nErro2: 1 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 19800000000,000000 nErro1: 74 nErro2: 1 nErro3: 15 nErro4: 0
+Nova Melhor Solução Encontrada: 19600000000,000000 nErro1: 74 nErro2: 1 nErro3: 14 nErro4: 0
+Nova Melhor Solução Encontrada: 19200000000,000000 nErro1: 74 nErro2: 1 nErro3: 12 nErro4: 0
+Nova Melhor Solução Encontrada: 19000000000,000000 nErro1: 73 nErro2: 1 nErro3: 12 nErro4: 0
+Nova Melhor Solução Encontrada: 18600000000,000000 nErro1: 73 nErro2: 1 nErro3: 10 nErro4: 0
+Nova Melhor Solução Encontrada: 18200000000,000000 nErro1: 73 nErro2: 1 nErro3: 8 nErro4: 0
+Nova Melhor Solução Encontrada: 17000000000,000000 nErro1: 76 nErro2: 0 nErro3: 9 nErro4: 0
+Nova Melhor Solução Encontrada: 16800000000,000000 nErro1: 75 nErro2: 0 nErro3: 9 nErro4: 0
+Nova Melhor Solução Encontrada: 16600000000,000000 nErro1: 74 nErro2: 0 nErro3: 9 nErro4: 0
+Nova Melhor Solução Encontrada: 16400000000,000000 nErro1: 74 nErro2: 0 nErro3: 8 nErro4: 0
+Nova Melhor Solução Encontrada: 16200000000,000000 nErro1: 75 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 16000000000,000000 nErro1: 73 nErro2: 0 nErro3: 7 nErro4: 0
+Nova Melhor Solução Encontrada: 15600000000,000000 nErro1: 71 nErro2: 0 nErro3: 7 nErro4: 0
+Nova Melhor Solução Encontrada: 15400000000,000000 nErro1: 71 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 15200000000,000000 nErro1: 70 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 15000000000,000000 nErro1: 69 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 14800000000,000000 nErro1: 68 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 14600000000,000000 nErro1: 67 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 14400000000,000000 nErro1: 66 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 14200000000,000000 nErro1: 65 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 14000000000,000000 nErro1: 64 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 13800000000,000000 nErro1: 63 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 13600000000,000000 nErro1: 62 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 13400000000,000000 nErro1: 62 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 13000000000,000000 nErro1: 60 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 12800000000,000000 nErro1: 59 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 12600000000,000000 nErro1: 58 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 12400000000,000000 nErro1: 57 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 12000000000,000000 nErro1: 55 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 11800000000,000000 nErro1: 54 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 11600000000,000000 nErro1: 53 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 11400000000,000000 nErro1: 52 nErro2: 0 nErro3: 5 nErro4: 0
+Nova Melhor Solução Encontrada: 11200000000,000000 nErro1: 50 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 11000000000,000000 nErro1: 49 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 10600000000,000000 nErro1: 47 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 10200000000,000000 nErro1: 45 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 10000000000,000000 nErro1: 44 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 9800000000,000000 nErro1: 43 nErro2: 0 nErro3: 6 nErro4: 0
+Nova Melhor Solução Encontrada: 9600000000,000000 nErro1: 44 nErro2: 0 nErro3: 4 nErro4: 0
+Nova Melhor Solução Encontrada: 9400000000,000000 nErro1: 43 nErro2: 0 nErro3: 4 nErro4: 0
+Nova Melhor Solução Encontrada: 9200000000,000000 nErro1: 42 nErro2: 0 nErro3: 4 nErro4: 0
+Nova Melhor Solução Encontrada: 9000000000,000000 nErro1: 41 nErro2: 0 nErro3: 4 nErro4: 0
+Nova Melhor Solução Encontrada: 8600000000,000000 nErro1: 39 nErro2: 0 nErro3: 4 nErro4: 0
+Nova Melhor Solução Encontrada: 8400000000,000000 nErro1: 40 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 8200000000,000000 nErro1: 39 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 8000000000,000000 nErro1: 38 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 7800000000,000000 nErro1: 37 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 7600000000,000000 nErro1: 36 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 7400000000,000000 nErro1: 35 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 7200000000,000000 nErro1: 34 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 7000000000,000000 nErro1: 33 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 6800000000,000000 nErro1: 32 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 6600000000,000000 nErro1: 31 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 6400000000,000000 nErro1: 30 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 6200000000,000000 nErro1: 29 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 6000000000,000000 nErro1: 28 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 5800000000,000000 nErro1: 27 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 5600000000,000000 nErro1: 26 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 5400000000,000000 nErro1: 25 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 5200000000,000000 nErro1: 24 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 5000000000,000000 nErro1: 23 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 4800000000,000000 nErro1: 22 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 4600000000,000000 nErro1: 21 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 4400000000,000000 nErro1: 20 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 4200000000,000000 nErro1: 19 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 4000000000,000000 nErro1: 18 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 3800000000,000000 nErro1: 17 nErro2: 0 nErro3: 2 nErro4: 0
+Nova Melhor Solução Encontrada: 3600000000,000000 nErro1: 17 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 3400000000,000000 nErro1: 16 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 3200000000,000000 nErro1: 15 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 3000000000,000000 nErro1: 14 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 2800000000,000000 nErro1: 13 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 2600000000,000000 nErro1: 12 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 2400000000,000000 nErro1: 11 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 2200000000,000000 nErro1: 10 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 2000000000,000000 nErro1: 9 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 1800000000,000000 nErro1: 8 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 1600000000,000000 nErro1: 7 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 1400000000,000000 nErro1: 6 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 1200000000,000000 nErro1: 5 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 1000000000,000000 nErro1: 4 nErro2: 0 nErro3: 1 nErro4: 0
+Nova Melhor Solução Encontrada: 800000000,000000 nErro1: 4 nErro2: 0 nErro3: 0 nErro4: 0
+Nova Melhor Solução Encontrada: 600000000,000000 nErro1: 3 nErro2: 0 nErro3: 0 nErro4: 0
+Nova Melhor Solução Encontrada: 400000000,000000 nErro1: 2 nErro2: 0 nErro3: 0 nErro4: 0
+Nova Melhor Solução Encontrada: 0,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+Final: 0,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+Nova Melhor Solução Encontrada: 129325553982,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 32 nErro6: 33 nErro7: 33 nErro8: 681782 nErro9: 48722
+Nova Melhor Solução Encontrada: 129305553659,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 32 nErro6: 32 nErro7: 33 nErro8: 681459 nErro9: 48722
+Nova Melhor Solução Encontrada: 113265553045,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 28 nErro6: 31 nErro7: 32 nErro8: 680845 nErro9: 48722
+Nova Melhor Solução Encontrada: 105285551370,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 26 nErro6: 32 nErro7: 32 nErro8: 679170 nErro9: 48722
+Nova Melhor Solução Encontrada: 105285551316,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 26 nErro6: 32 nErro7: 32 nErro8: 679116 nErro9: 48722
+Nova Melhor Solução Encontrada: 97685641589,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 24 nErro6: 32 nErro7: 32 nErro8: 674989 nErro9: 49666
+Nova Melhor Solução Encontrada: 81685641628,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 20 nErro6: 32 nErro7: 32 nErro8: 675028 nErro9: 49666
+Nova Melhor Solução Encontrada: 73685639914,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 18 nErro6: 32 nErro7: 32 nErro8: 673314 nErro9: 49666
+Nova Melhor Solução Encontrada: 73625644462,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 18 nErro6: 31 nErro7: 30 nErro8: 677862 nErro9: 49666
+Nova Melhor Solução Encontrada: 65664871990,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 16 nErro6: 31 nErro7: 32 nErro8: 674090 nErro9: 41979
+Nova Melhor Solução Encontrada: 57644871990,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 14 nErro6: 30 nErro7: 32 nErro8: 674090 nErro9: 41979
+Nova Melhor Solução Encontrada: 50044865502,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 12 nErro6: 30 nErro7: 32 nErro8: 667602 nErro9: 41979
+Nova Melhor Solução Encontrada: 49984872065,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 12 nErro6: 29 nErro7: 30 nErro8: 674165 nErro9: 41979
+Nova Melhor Solução Encontrada: 46404866733,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 10 nErro6: 29 nErro7: 31 nErro8: 668833 nErro9: 41979
+Nova Melhor Solução Encontrada: 38384868312,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 8 nErro6: 29 nErro7: 30 nErro8: 670412 nErro9: 41979
+Nova Melhor Solução Encontrada: 38384867690,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 8 nErro6: 29 nErro7: 30 nErro8: 669790 nErro9: 41979
+Nova Melhor Solução Encontrada: 38384866085,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 8 nErro6: 29 nErro7: 30 nErro8: 668185 nErro9: 41979
+Nova Melhor Solução Encontrada: 38384860827,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 8 nErro6: 28 nErro7: 31 nErro8: 662927 nErro9: 41979
+Nova Melhor Solução Encontrada: 22304864117,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 4 nErro6: 25 nErro7: 30 nErro8: 666217 nErro9: 41979
+Nova Melhor Solução Encontrada: 14325132155,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 2 nErro6: 25 nErro7: 31 nErro8: 660955 nErro9: 44712
+Nova Melhor Solução Encontrada: 6345132369,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 0 nErro6: 26 nErro7: 31 nErro8: 661169 nErro9: 44712
+Nova Melhor Solução Encontrada: 6265431790,000000 nErro1: 0 nErro2: 2 nErro3: 6 nErro4: 0
+						nErro5: 0 nErro6: 24 nErro7: 29 nErro8: 664390 nErro9: 47674
+Nova Melhor Solução Encontrada: 1845437122,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 24 nErro7: 28 nErro8: 669722 nErro9: 47674
+Nova Melhor Solução Encontrada: 1805439546,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 27 nErro8: 672146 nErro9: 47674
+Nova Melhor Solução Encontrada: 1804514829,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 27 nErro8: 663029 nErro9: 38518
+Nova Melhor Solução Encontrada: 1784515805,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 26 nErro8: 664005 nErro9: 38518
+Nova Melhor Solução Encontrada: 1784512617,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 26 nErro8: 660817 nErro9: 38518
+Nova Melhor Solução Encontrada: 1783948227,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 24 nErro7: 25 nErro8: 664327 nErro9: 32839
+Nova Melhor Solução Encontrada: 1763940799,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 25 nErro8: 664399 nErro9: 32764
+Nova Melhor Solução Encontrada: 1723942529,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 23 nErro8: 666129 nErro9: 32764
+Nova Melhor Solução Encontrada: 1723940468,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 23 nErro8: 664068 nErro9: 32764
+Nova Melhor Solução Encontrada: 1703943364,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 22 nErro8: 666964 nErro9: 32764
+Nova Melhor Solução Encontrada: 1703721798,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 22 nErro8: 668698 nErro9: 30531
+Nova Melhor Solução Encontrada: 1683722128,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 22 nErro7: 22 nErro8: 669028 nErro9: 30531
+Nova Melhor Solução Encontrada: 1683720027,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 23 nErro7: 21 nErro8: 666927 nErro9: 30531
+Nova Melhor Solução Encontrada: 1643734417,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 22 nErro7: 20 nErro8: 668417 nErro9: 30660
+Nova Melhor Solução Encontrada: 1563734741,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 20 nErro7: 18 nErro8: 668741 nErro9: 30660
+Nova Melhor Solução Encontrada: 1523736648,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 19 nErro7: 17 nErro8: 670648 nErro9: 30660
+Nova Melhor Solução Encontrada: 1503736562,000000 nErro1: 0 nErro2: 0 nErro3: 4 nErro4: 0
+						nErro5: 0 nErro6: 18 nErro7: 17 nErro8: 670562 nErro9: 30660
+Nova Melhor Solução Encontrada: 1103696689,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 0 nErro6: 18 nErro7: 17 nErro8: 674689 nErro9: 30220
+Nova Melhor Solução Encontrada: 1083696690,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 0 nErro6: 18 nErro7: 16 nErro8: 674690 nErro9: 30220
+Nova Melhor Solução Encontrada: 1063697498,000000 nErro1: 0 nErro2: 0 nErro3: 2 nErro4: 0
+						nErro5: 0 nErro6: 18 nErro7: 15 nErro8: 675498 nErro9: 30220
+Nova Melhor Solução Encontrada: 663703986,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 18 nErro7: 15 nErro8: 681986 nErro9: 30220
+Nova Melhor Solução Encontrada: 663703220,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 18 nErro7: 15 nErro8: 681220 nErro9: 30220
+Nova Melhor Solução Encontrada: 624262517,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 17 nErro7: 14 nErro8: 687217 nErro9: 35753
+Nova Melhor Solução Encontrada: 624262360,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 17 nErro7: 14 nErro8: 687060 nErro9: 35753
+Nova Melhor Solução Encontrada: 585157946,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 17 nErro7: 12 nErro8: 698246 nErro9: 44597
+Nova Melhor Solução Encontrada: 565159190,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 16 nErro7: 12 nErro8: 698990 nErro9: 44602
+Nova Melhor Solução Encontrada: 505159207,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 15 nErro7: 10 nErro8: 699007 nErro9: 44602
+Nova Melhor Solução Encontrada: 485157830,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 15 nErro7: 9 nErro8: 697630 nErro9: 44602
+Nova Melhor Solução Encontrada: 465158818,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 14 nErro7: 9 nErro8: 698618 nErro9: 44602
+Nova Melhor Solução Encontrada: 405163956,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 12 nErro7: 8 nErro8: 703756 nErro9: 44602
+Nova Melhor Solução Encontrada: 405162881,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 12 nErro7: 8 nErro8: 703181 nErro9: 44597
+Nova Melhor Solução Encontrada: 345175670,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 10 nErro7: 7 nErro8: 715970 nErro9: 44597
+Nova Melhor Solução Encontrada: 345171840,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 10 nErro7: 7 nErro8: 711940 nErro9: 44599
+Nova Melhor Solução Encontrada: 345171635,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 10 nErro7: 7 nErro8: 711935 nErro9: 44597
+Nova Melhor Solução Encontrada: 345138754,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 10 nErro7: 7 nErro8: 713154 nErro9: 44256
+Nova Melhor Solução Encontrada: 345138424,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 10 nErro7: 7 nErro8: 712824 nErro9: 44256
+Nova Melhor Solução Encontrada: 305139715,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 9 nErro7: 6 nErro8: 714115 nErro9: 44256
+Nova Melhor Solução Encontrada: 305139047,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 9 nErro7: 6 nErro8: 713447 nErro9: 44256
+Nova Melhor Solução Encontrada: 305138896,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 9 nErro7: 6 nErro8: 713296 nErro9: 44256
+Nova Melhor Solução Encontrada: 305135273,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 9 nErro7: 6 nErro8: 709673 nErro9: 44256
+Nova Melhor Solução Encontrada: 285138052,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 8 nErro7: 6 nErro8: 712452 nErro9: 44256
+Nova Melhor Solução Encontrada: 245144268,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 7 nErro7: 5 nErro8: 718668 nErro9: 44256
+Nova Melhor Solução Encontrada: 245143952,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 7 nErro7: 5 nErro8: 718352 nErro9: 44256
+Nova Melhor Solução Encontrada: 206146190,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 5 nErro7: 5 nErro8: 723590 nErro9: 54226
+Nova Melhor Solução Encontrada: 186146532,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 5 nErro7: 4 nErro8: 723932 nErro9: 54226
+Nova Melhor Solução Encontrada: 186122362,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 5 nErro7: 4 nErro8: 724862 nErro9: 53975
+Nova Melhor Solução Encontrada: 166123502,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 5 nErro7: 3 nErro8: 726002 nErro9: 53975
+Nova Melhor Solução Encontrada: 166123495,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 5 nErro7: 3 nErro8: 725995 nErro9: 53975
+Nova Melhor Solução Encontrada: 146151621,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 4 nErro7: 3 nErro8: 729021 nErro9: 54226
+Nova Melhor Solução Encontrada: 146151614,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 4 nErro7: 3 nErro8: 729014 nErro9: 54226
+Nova Melhor Solução Encontrada: 126152179,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 3 nErro7: 3 nErro8: 729579 nErro9: 54226
+Nova Melhor Solução Encontrada: 106138172,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 2 nErro7: 3 nErro8: 739472 nErro9: 53987
+Nova Melhor Solução Encontrada: 86142862,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 3 nErro8: 743662 nErro9: 53992
+Nova Melhor Solução Encontrada: 86142749,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 3 nErro8: 743549 nErro9: 53992
+Nova Melhor Solução Encontrada: 86141761,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 3 nErro8: 742561 nErro9: 53992
+Nova Melhor Solução Encontrada: 86141529,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 3 nErro8: 742329 nErro9: 53992
+Nova Melhor Solução Encontrada: 86140050,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 3 nErro8: 740850 nErro9: 53992
+Nova Melhor Solução Encontrada: 86139966,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 3 nErro8: 740766 nErro9: 53992
+Nova Melhor Solução Encontrada: 66168363,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 744163 nErro9: 54242
+Nova Melhor Solução Encontrada: 66167907,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 743707 nErro9: 54242
+Nova Melhor Solução Encontrada: 66165345,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 741145 nErro9: 54242
+Nova Melhor Solução Encontrada: 66165283,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 740583 nErro9: 54247
+Nova Melhor Solução Encontrada: 66164039,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 739839 nErro9: 54242
+Nova Melhor Solução Encontrada: 66146331,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 740031 nErro9: 54063
+Nova Melhor Solução Encontrada: 66146245,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 739945 nErro9: 54063
+Nova Melhor Solução Encontrada: 66137874,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 2 nErro8: 740374 nErro9: 53975
+Nova Melhor Solução Encontrada: 46144027,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 1 nErro8: 745327 nErro9: 53987
+Nova Melhor Solução Encontrada: 46014119,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 1 nErro8: 745519 nErro9: 52686
+Nova Melhor Solução Encontrada: 46013554,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 1 nErro7: 1 nErro8: 744954 nErro9: 52686
+Nova Melhor Solução Encontrada: 26014414,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 745814 nErro9: 52686
+Nova Melhor Solução Encontrada: 26014407,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 745807 nErro9: 52686
+Nova Melhor Solução Encontrada: 26014121,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 745721 nErro9: 52684
+Nova Melhor Solução Encontrada: 26013310,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 744910 nErro9: 52684
+Nova Melhor Solução Encontrada: 26012268,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 743868 nErro9: 52684
+Nova Melhor Solução Encontrada: 25764351,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 743151 nErro9: 50212
+Nova Melhor Solução Encontrada: 25764349,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 743149 nErro9: 50212
+Nova Melhor Solução Encontrada: 25763566,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 742366 nErro9: 50212
+Nova Melhor Solução Encontrada: 25763518,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 742318 nErro9: 50212
+Nova Melhor Solução Encontrada: 25762728,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 741528 nErro9: 50212
+Nova Melhor Solução Encontrada: 25762716,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 741516 nErro9: 50212
+Nova Melhor Solução Encontrada: 25762711,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 741511 nErro9: 50212
+Nova Melhor Solução Encontrada: 25761893,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 740693 nErro9: 50212
+Nova Melhor Solução Encontrada: 25761087,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 739887 nErro9: 50212
+Nova Melhor Solução Encontrada: 25760910,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 739710 nErro9: 50212
+Nova Melhor Solução Encontrada: 25760045,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 738845 nErro9: 50212
+Nova Melhor Solução Encontrada: 25630162,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 744462 nErro9: 48857
+Nova Melhor Solução Encontrada: 25629821,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 744121 nErro9: 48857
+Nova Melhor Solução Encontrada: 25629027,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 743327 nErro9: 48857
+Nova Melhor Solução Encontrada: 25629015,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 743315 nErro9: 48857
+Nova Melhor Solução Encontrada: 25629010,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 743310 nErro9: 48857
+Nova Melhor Solução Encontrada: 25628914,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 743214 nErro9: 48857
+Nova Melhor Solução Encontrada: 25628108,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 742408 nErro9: 48857
+Nova Melhor Solução Encontrada: 25628102,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 742402 nErro9: 48857
+Nova Melhor Solução Encontrada: 25627290,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 1 nErro8: 741590 nErro9: 48857
+Nova Melhor Solução Encontrada: 5633098,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 0 nErro8: 747398 nErro9: 48857
+Nova Melhor Solução Encontrada: 5632293,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 0 nErro8: 746593 nErro9: 48857
+Nova Melhor Solução Encontrada: 5631475,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 0 nErro8: 745775 nErro9: 48857
+Nova Melhor Solução Encontrada: 5629193,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 0 nErro8: 743493 nErro9: 48857
+Nova Melhor Solução Encontrada: 5628375,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 0 nErro8: 742675 nErro9: 48857
+Nova Melhor Solução Encontrada: 5628370,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+						nErro5: 0 nErro6: 0 nErro7: 0 nErro8: 742670 nErro9: 48857
+Rodada 1	Atletico-GO x Sport		Flamengo x Corinthians		Vitoria x Sao_Paulo		Santos x Chapecoense		Coritiba x Botafogo		Cruzeiro x Atletico-MG		Bahia x Palmeiras		Atletico-PR x Ponte_Preta		Fluminense x Vasco		Gremio x Avai		
+Rodada 2	Avai x Atletico-GO		Botafogo x Bahia		Chapecoense x Gremio		Palmeiras x Flamengo		Atletico-MG x Santos		Sport x Vitoria		Vasco x Coritiba		Ponte_Preta x Fluminense		Corinthians x Atletico-PR		Sao_Paulo x Cruzeiro		
+Rodada 3	Fluminense x Atletico-GO		Vasco x Chapecoense		Atletico-MG x Atletico-PR		Cruzeiro x Santos		Botafogo x Palmeiras		Bahia x Flamengo		Gremio x Coritiba		Vitoria x Corinthians		Ponte_Preta x Sport		Sao_Paulo x Avai		
+Rodada 4	Coritiba x Atletico-MG		Sport x Vasco		Atletico-GO x Botafogo		Santos x Vitoria		Chapecoense x Bahia		Avai x Palmeiras		Flamengo x Ponte_Preta		Corinthians x Gremio		Atletico-PR x Cruzeiro		Fluminense x Sao_Paulo		
+Rodada 5	Sport x Santos		Atletico-GO x Bahia		Sao_Paulo x Botafogo		Vasco x Flamengo		Palmeiras x Fluminense		Gremio x Vitoria		Corinthians x Coritiba		Cruzeiro x Ponte_Preta		Chapecoense x Atletico-MG		Atletico-PR x Avai		
+Rodada 6	Santos x Atletico-GO		Atletico-MG x Gremio		Palmeiras x Atletico-PR		Sao_Paulo x Chapecoense		Avai x Sport		Bahia x Coritiba		Vitoria x Flamengo		Fluminense x Cruzeiro		Ponte_Preta x Vasco		Botafogo x Corinthians		
+Rodada 7	Avai x Vitoria		Bahia x Vasco		Flamengo x Santos		Gremio x Sao_Paulo		Ponte_Preta x Atletico-MG		Atletico-PR x Fluminense		Coritiba x Sport		Corinthians x Palmeiras		Atletico-GO x Cruzeiro		Botafogo x Chapecoense		
+Rodada 8	Atletico-MG x Botafogo		Cruzeiro x Vitoria		Chapecoense x Avai		Palmeiras x Coritiba		Santos x Atletico-PR		Sport x Bahia		Fluminense x Flamengo		Vasco x Gremio		Corinthians x Sao_Paulo		Atletico-GO x Ponte_Preta		
+Rodada 9	Gremio x Sport		Sao_Paulo x Santos		Ponte_Preta x Bahia		Vitoria x Coritiba		Palmeiras x Cruzeiro		Botafogo x Vasco		Atletico-PR x Atletico-GO		Fluminense x Corinthians		Flamengo x Chapecoense		Avai x Atletico-MG		
+Rodada 10	Atletico-MG x Fluminense		Sao_Paulo x Palmeiras		Chapecoense x Corinthians		Santos x Ponte_Preta		Vitoria x Botafogo		Bahia x Gremio		Vasco x Atletico-PR		Coritiba x Atletico-GO		Sport x Cruzeiro		Avai x Flamengo		
+Rodada 11	Botafogo x Santos		Corinthians x Vasco		Flamengo x Atletico-PR		Palmeiras x Gremio		Ponte_Preta x Sao_Paulo		Cruzeiro x Avai		Bahia x Fluminense		Coritiba x Chapecoense		Atletico-MG x Sport		Atletico-GO x Vitoria		
+Rodada 12	Flamengo x Coritiba		Fluminense x Chapecoense		Cruzeiro x Botafogo		Vitoria x Atletico-MG		Atletico-PR x Bahia		Avai x Ponte_Preta		Santos x Corinthians		Sao_Paulo x Vasco		Gremio x Atletico-GO		Sport x Palmeiras		
+Rodada 13	Chapecoense x Ponte_Preta		Gremio x Fluminense		Vitoria x Atletico-PR		Coritiba x Santos		Atletico-GO x Sao_Paulo		Sport x Flamengo		Botafogo x Avai		Vasco x Palmeiras		Atletico-MG x Corinthians		Bahia x Cruzeiro		
+Rodada 14	Atletico-MG x Sao_Paulo		Fluminense x Santos		Cruzeiro x Gremio		Corinthians x Sport		Flamengo x Botafogo		Vasco x Atletico-GO		Atletico-PR x Coritiba		Palmeiras x Chapecoense		Ponte_Preta x Vitoria		Bahia x Avai		
+Rodada 15	Gremio x Atletico-PR		Ponte_Preta x Corinthians		Sport x Botafogo		Cruzeiro x Flamengo		Coritiba x Fluminense		Santos x Palmeiras		Sao_Paulo x Bahia		Chapecoense x Vitoria		Atletico-GO x Atletico-MG		Avai x Vasco		
+Rodada 16	Coritiba x Cruzeiro		Flamengo x Atletico-GO		Atletico-PR x Sao_Paulo		Vitoria x Bahia		Botafogo x Fluminense		Corinthians x Avai		Chapecoense x Sport		Vasco x Atletico-MG		Palmeiras x Ponte_Preta		Santos x Gremio		
+Rodada 17	Atletico-GO x Corinthians		Bahia x Santos		Cruzeiro x Vasco		Sao_Paulo x Sport		Atletico-MG x Palmeiras		Fluminense x Vitoria		Gremio x Flamengo		Ponte_Preta x Botafogo		Atletico-PR x Chapecoense		Avai x Coritiba		
+Rodada 18	Palmeiras x Vitoria		Botafogo x Gremio		Sport x Atletico-PR		Vasco x Santos		Atletico-MG x Bahia		Chapecoense x Atletico-GO		Avai x Fluminense		Ponte_Preta x Coritiba		Corinthians x Cruzeiro		Sao_Paulo x Flamengo		
+Rodada 19	Atletico-GO x Palmeiras		Vitoria x Vasco		Coritiba x Sao_Paulo		Flamengo x Atletico-MG		Santos x Avai		Atletico-PR x Botafogo		Bahia x Corinthians		Cruzeiro x Chapecoense		Gremio x Ponte_Preta		Fluminense x Sport		
+Rodada 20	Sport x Atletico-GO		Corinthians x Flamengo		Sao_Paulo x Vitoria		Chapecoense x Santos		Botafogo x Coritiba		Atletico-MG x Cruzeiro		Palmeiras x Bahia		Ponte_Preta x Atletico-PR		Vasco x Fluminense		Avai x Gremio		
+Rodada 21	Atletico-GO x Avai		Bahia x Botafogo		Gremio x Chapecoense		Flamengo x Palmeiras		Santos x Atletico-MG		Vitoria x Sport		Coritiba x Vasco		Fluminense x Ponte_Preta		Atletico-PR x Corinthians		Cruzeiro x Sao_Paulo		
+Rodada 22	Atletico-GO x Fluminense		Chapecoense x Vasco		Atletico-PR x Atletico-MG		Santos x Cruzeiro		Palmeiras x Botafogo		Flamengo x Bahia		Coritiba x Gremio		Corinthians x Vitoria		Sport x Ponte_Preta		Avai x Sao_Paulo		
+Rodada 23	Atletico-MG x Coritiba		Vasco x Sport		Botafogo x Atletico-GO		Vitoria x Santos		Bahia x Chapecoense		Palmeiras x Avai		Ponte_Preta x Flamengo		Gremio x Corinthians		Cruzeiro x Atletico-PR		Sao_Paulo x Fluminense		
+Rodada 24	Santos x Sport		Bahia x Atletico-GO		Botafogo x Sao_Paulo		Flamengo x Vasco		Fluminense x Palmeiras		Vitoria x Gremio		Coritiba x Corinthians		Ponte_Preta x Cruzeiro		Atletico-MG x Chapecoense		Avai x Atletico-PR		
+Rodada 25	Atletico-GO x Santos		Gremio x Atletico-MG		Atletico-PR x Palmeiras		Chapecoense x Sao_Paulo		Sport x Avai		Coritiba x Bahia		Flamengo x Vitoria		Cruzeiro x Fluminense		Vasco x Ponte_Preta		Corinthians x Botafogo		
+Rodada 26	Vitoria x Avai		Vasco x Bahia		Santos x Flamengo		Sao_Paulo x Gremio		Atletico-MG x Ponte_Preta		Fluminense x Atletico-PR		Sport x Coritiba		Palmeiras x Corinthians		Cruzeiro x Atletico-GO		Chapecoense x Botafogo		
+Rodada 27	Botafogo x Atletico-MG		Vitoria x Cruzeiro		Avai x Chapecoense		Coritiba x Palmeiras		Atletico-PR x Santos		Bahia x Sport		Flamengo x Fluminense		Gremio x Vasco		Sao_Paulo x Corinthians		Ponte_Preta x Atletico-GO		
+Rodada 28	Sport x Gremio		Santos x Sao_Paulo		Bahia x Ponte_Preta		Coritiba x Vitoria		Cruzeiro x Palmeiras		Vasco x Botafogo		Atletico-GO x Atletico-PR		Corinthians x Fluminense		Chapecoense x Flamengo		Atletico-MG x Avai		
+Rodada 29	Fluminense x Atletico-MG		Palmeiras x Sao_Paulo		Corinthians x Chapecoense		Ponte_Preta x Santos		Botafogo x Vitoria		Gremio x Bahia		Atletico-PR x Vasco		Atletico-GO x Coritiba		Cruzeiro x Sport		Flamengo x Avai		
+Rodada 30	Santos x Botafogo		Vasco x Corinthians		Atletico-PR x Flamengo		Gremio x Palmeiras		Sao_Paulo x Ponte_Preta		Avai x Cruzeiro		Fluminense x Bahia		Chapecoense x Coritiba		Sport x Atletico-MG		Vitoria x Atletico-GO		
+Rodada 31	Coritiba x Flamengo		Chapecoense x Fluminense		Botafogo x Cruzeiro		Atletico-MG x Vitoria		Bahia x Atletico-PR		Ponte_Preta x Avai		Corinthians x Santos		Vasco x Sao_Paulo		Atletico-GO x Gremio		Palmeiras x Sport		
+Rodada 32	Ponte_Preta x Chapecoense		Fluminense x Gremio		Atletico-PR x Vitoria		Santos x Coritiba		Sao_Paulo x Atletico-GO		Flamengo x Sport		Avai x Botafogo		Palmeiras x Vasco		Corinthians x Atletico-MG		Cruzeiro x Bahia		
+Rodada 33	Sao_Paulo x Atletico-MG		Santos x Fluminense		Gremio x Cruzeiro		Sport x Corinthians		Botafogo x Flamengo		Atletico-GO x Vasco		Coritiba x Atletico-PR		Chapecoense x Palmeiras		Vitoria x Ponte_Preta		Avai x Bahia		
+Rodada 34	Atletico-PR x Gremio		Corinthians x Ponte_Preta		Botafogo x Sport		Flamengo x Cruzeiro		Fluminense x Coritiba		Palmeiras x Santos		Bahia x Sao_Paulo		Vitoria x Chapecoense		Atletico-MG x Atletico-GO		Vasco x Avai		
+Rodada 35	Cruzeiro x Coritiba		Atletico-GO x Flamengo		Sao_Paulo x Atletico-PR		Bahia x Vitoria		Fluminense x Botafogo		Avai x Corinthians		Sport x Chapecoense		Atletico-MG x Vasco		Ponte_Preta x Palmeiras		Gremio x Santos		
+Rodada 36	Corinthians x Atletico-GO		Santos x Bahia		Vasco x Cruzeiro		Sport x Sao_Paulo		Palmeiras x Atletico-MG		Vitoria x Fluminense		Flamengo x Gremio		Botafogo x Ponte_Preta		Chapecoense x Atletico-PR		Coritiba x Avai		
+Rodada 37	Vitoria x Palmeiras		Gremio x Botafogo		Atletico-PR x Sport		Santos x Vasco		Bahia x Atletico-MG		Atletico-GO x Chapecoense		Fluminense x Avai		Coritiba x Ponte_Preta		Cruzeiro x Corinthians		Flamengo x Sao_Paulo		
+Rodada 38	Palmeiras x Atletico-GO		Vasco x Vitoria		Sao_Paulo x Coritiba		Atletico-MG x Flamengo		Avai x Santos		Botafogo x Atletico-PR		Corinthians x Bahia		Chapecoense x Cruzeiro		Ponte_Preta x Gremio		Sport x Fluminense		
+
+Final: 0,000000 nErro1: 0 nErro2: 0 nErro3: 0 nErro4: 0
+
+Final: 5628370,000000 nErro5: 0 nErro6: 0 nErro7: 0 nErro8: 742670 nErro9: 48857
+Executou em 1 Tentativas / Tempo de execução: 08 minutos  e 54 segundo
